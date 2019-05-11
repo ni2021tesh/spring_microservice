@@ -30,9 +30,9 @@ HELP.md
 .vscode/
 
 
- netflix-eureka-naming-server.zip
- netflix-zuul-api-gateway-server.zip
- node_training/
- rest_with_spring/
- spring_rest_service/
+ /netflix-eureka-naming-server.zip
+ /netflix-zuul-api-gateway-server.zip
+ /node_training/
+ /rest_with_spring/
+ /spring_rest_service/
 
