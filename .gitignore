@@ -1,0 +1,38 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
+
+
+ netflix-eureka-naming-server.zip
+ netflix-zuul-api-gateway-server.zip
+ node_training/
+ rest_with_spring/
+ spring_rest_service/
+
